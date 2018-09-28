@@ -1166,6 +1166,30 @@ footer {
       &:hover {
         box-shadow: 0 6px 16px 0 rgba(24, 24, 25, 0.1);
       }
+
+      &.has-note {
+        .item-title span {
+          position: relative;
+          &:after {
+            content: '';
+            display: block;
+            position: absolute;
+            width: 12px;
+            height: 11px;
+            top: -13px;
+            right: 0;
+            background: url('../images/star.svg') no-repeat;
+          }
+        }
+      }
+    }
+
+    .note-description {
+      font-size: 14px;
+      font-weight: 300;
+      img {
+        margin-right: 5px;
+      }
     }
   }
 
