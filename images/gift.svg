@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="119" viewBox="0 0 85 119">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FF5E0E" d="M8.82 57.712v45.774a3.2 3.2 0 0 0 2.022 2.975L42.5 119V68.82L8.82 57.713z"/>
+        <path fill="#FF9661" d="M42.5 68.901L77.783 59v47.181a3.2 3.2 0 0 1-2.293 3.07L42.5 119V68.901z"/>
+        <path fill="#3E4041" d="M8.82 57.896l37.919-8.46a2.4 2.4 0 0 1 1.261.058l30.585 9.897L42.72 69.4 8.82 57.896z"/>
+        <path fill="#FCC6B3" d="M42.5 68.42l5.724 16.093A2.4 2.4 0 0 0 51.202 86l31.487-9.853a2.4 2.4 0 0 0 1.523-3.154L78.822 59 42.5 68.42z"/>
+        <path fill="#FCC6B3" d="M8.652 57.4L.706 70.92a2.4 2.4 0 0 0 1.319 3.496l31.351 10.317a2.4 2.4 0 0 0 2.927-1.268l6.999-15.051L8.652 57.4z"/>
+        <ellipse cx="4.41" cy="4.582" fill="#FFC536" rx="4.41" ry="4.582" transform="rotate(22 -50.125 170.582)"/>
+        <text fill="#BE9224" font-family="NotoSansCJKtc-Medium, Noto Sans CJK TC" font-size="5.6" font-weight="400" letter-spacing=".047" transform="rotate(22 -49.564 170.691)">
+            <tspan x="2.791" y="6.291">$</tspan>
+        </text>
+        <ellipse cx="4.41" cy="4.582" fill="#FFC536" rx="4.41" ry="4.582" transform="rotate(-7 26.21 -349.4)"/>
+        <text fill="#BE9224" font-family="NotoSansCJKtc-Medium, Noto Sans CJK TC" font-size="5.6" font-weight="400" letter-spacing=".047" transform="rotate(-7 24.426 -349.29)">
+            <tspan x="2.791" y="6.291">$</tspan>
+        </text>
+        <ellipse cx="4.41" cy="4.582" fill="#FFC536" rx="4.41" ry="4.582" transform="rotate(-17 88.634 -45.914)"/>
+        <text fill="#BE9224" font-family="NotoSansCJKtc-Medium, Noto Sans CJK TC" font-size="5.6" font-weight="400" letter-spacing=".047" transform="rotate(-17 87.904 -45.805)">
+            <tspan x="2.791" y="6.291">$</tspan>
+        </text>
+        <g>
+            <ellipse cx="4.41" cy="4.582" fill="#FFC536" rx="4.41" ry="4.582" transform="rotate(10 -278.764 297.193)"/>
+            <text fill="#BE9224" font-family="NotoSansCJKtc-Medium, Noto Sans CJK TC" font-size="5.6" font-weight="400" letter-spacing=".047" transform="rotate(10 -277.517 297.302)">
+                <tspan x="2.791" y="6.291">$</tspan>
+            </text>
+        </g>
+        <g>
+            <ellipse cx="4.41" cy="4.582" fill="#FFC536" rx="4.41" ry="4.582" transform="rotate(-34 95.56 -22.044)"/>
+            <text fill="#BE9224" font-family="NotoSansCJKtc-Medium, Noto Sans CJK TC" font-size="5.6" font-weight="400" letter-spacing=".047" transform="rotate(-34 95.203 -21.935)">
+                <tspan x="2.791" y="6.291">$</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
