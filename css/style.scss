@@ -1059,6 +1059,7 @@ footer {
   .rwd-design {
     .main-image img{
         max-width: 421px;
+        width: 100%;
         @media (max-width: 767.98px) {
           max-width: 200px;
           margin: 55px auto 37px;
