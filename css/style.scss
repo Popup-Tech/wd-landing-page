@@ -556,7 +556,7 @@ header {
     }
 
     &:before {
-      background: url("../images/cta.svg") center center no-repeat;
+      background: url("../images/cta.png") center center no-repeat;
       background-size: contain;
       width: 83px;
       height: 52px;
@@ -957,7 +957,7 @@ footer {
 
         &:before {
           content: ' ';
-          background: url("../images/click-here.svg") center center no-repeat;
+          background: url("../images/click-here.png") center center no-repeat;
           width: 290px;
           height: 80px;
           position: absolute;
@@ -1253,7 +1253,7 @@ footer {
     }
 
     .bottom-bg {
-      background: url("../images/booking-background.svg") bottom left no-repeat;
+      background: url("../images/booking-background.png") bottom left no-repeat;
       position: absolute;
       bottom: 0;
       right: 0;
